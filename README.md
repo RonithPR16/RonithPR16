@@ -1,5 +1,6 @@
+<p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
 <h1 align="center">Hi 👋, I'm Ronith PR</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A frontend developer who loves to code interesting websites for fun and a living</h3>
 
 - 🔭 I’m currently working on **updating my personal portfolio**
 
