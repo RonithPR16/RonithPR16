@@ -72,7 +72,7 @@
 </tr>
 <tr>
     <td align='center'>
-      <img src="https://miro.medium.com/v2/resize:fit:1400/1*BQZAbczBfLYtPp-6HmN0ZQ.jpeg" alt="nextjs" width="60" height="60"/> 
+      <img src="https://testrigor.com/wp-content/uploads/2023/04/nextjs-logo.png" alt="nextjs" width="60" height="60"/> 
     </td>
     <td align='center'>
       <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="60" height="60"/>
