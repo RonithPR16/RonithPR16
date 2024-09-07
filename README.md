@@ -101,7 +101,7 @@
       <img src="https://user-images.githubusercontent.com/68724228/125097102-64ef2100-e0f3-11eb-884c-061d26d87078.png" width="60">
     </td>
     <td align='center'>
-        <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" width="60">
+        <img src="https://pbs.twimg.com/profile_images/1713633504431394816/h28jJ1qM_400x400.jpg" width="60">
     </td>
 </tr>
 
