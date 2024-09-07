@@ -13,6 +13,8 @@
 
 - 👨‍💻 All of my projects are available at [https://ronithpr.netlify.app/](https://ronithpr.netlify.app/)
 
+- 👨‍💻 My latest projects is a landing page for an imaginary soda company fizzi  at [https://fizzi-landing-page.vercel.app/](https://fizzi-landing-page.vercel.app/)
+
 - 💬 Ask me about **React, Flutter and React Native**
 
 - 📫 How to reach me **ronithgsk@gmail.com**
