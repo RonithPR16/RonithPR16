@@ -2,6 +2,11 @@
 <h1 align="center">Hi 👋, I'm Ronith PR</h1>
 <h3 align="center">A frontend developer who loves to code interesting websites for fun and a living</h3>
 
+
+<table align="center">
+<tr border="none">
+<td width="50%" align="left">
+  
 - 🔭 I’m currently working on **updating my personal portfolio**
 
 - 🌱 I’m currently learning **ThreeJS**
@@ -12,7 +17,18 @@
 
 - 📫 How to reach me **ronithgsk@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+</td>
+<td width="50%" align="center">
+
+  <img align="center" alt="Coding" width="450" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
+
+  
+  </td>
+</tr>
+</table>
+
+
+
 <p align="left">
 </p>
 
