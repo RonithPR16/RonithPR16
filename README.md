@@ -35,7 +35,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<table width="100">
+<table width="150">
 <tr>
     <td align='center' width="190">
        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="60" height="60"/>
