@@ -72,7 +72,7 @@
 </tr>
 <tr>
     <td align='center'>
-      <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="60" height="60"/> 
+      <img src="https://miro.medium.com/v2/resize:fit:1400/1*BQZAbczBfLYtPp-6HmN0ZQ.jpeg" alt="nextjs" width="60" height="60"/> 
     </td>
     <td align='center'>
       <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="60" height="60"/>
